@@ -176,7 +176,7 @@ int main(){
     voucherDiscount = (voucher*)malloc(sizeof(voucher)) ;
 
 
-	printf("hello world\n") ;
+	printf("hello world world\n") ;
 	printf("gajelas\n");
 	numVoucher = readVoucher(voucherDiscount) ;
     numDatabase[0] = readFlightDatabase(flightDatabase) ; // index 0 for access number of data on flight database
