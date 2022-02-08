@@ -4,6 +4,7 @@ main features:
 
 - Admin used for input data into database
 - User used to buy ticket with search and sorting features
+
 made by:
 
 - Louis Mayco Dillon Wijaya / 1906379296
