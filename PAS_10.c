@@ -175,7 +175,7 @@ int main(){
 
 
 	printf("hello world\n") ;
-	printf("test\n") ;
+	printf("gajelas\n");
 	numVoucher = readVoucher(voucherDiscount) ;
     numDatabase[0] = readFlightDatabase(flightDatabase) ; // index 0 for access number of data on flight database
     printf("test") ;
