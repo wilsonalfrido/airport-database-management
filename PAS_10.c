@@ -173,6 +173,8 @@ int main(){
     listUser = (profile*)malloc(MAXDATA*sizeof(profile)) ;
     voucherDiscount = (voucher*)malloc(sizeof(voucher)) ;
 
+
+	printf("hello world\n") ;
 	printf("test\n") ;
 	numVoucher = readVoucher(voucherDiscount) ;
     numDatabase[0] = readFlightDatabase(flightDatabase) ; // index 0 for access number of data on flight database
@@ -1951,3 +1953,5 @@ void delay(int milliseconds){
     while( (now-then) < pause )
         now = clock();
 }
+
+
