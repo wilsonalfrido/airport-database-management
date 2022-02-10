@@ -7,6 +7,9 @@
 // printf("\n <|0_0|>./ ") ;
 
 #changeeeee
+#commit1
+#commit2
+#commit3
 
 # include <stdio.h>
 # include <stdlib.h>
@@ -178,6 +181,7 @@ int main(){
 
 	printf("hello world\n") ;
 	printf("test\n") ;
+
 	numVoucher = readVoucher(voucherDiscount) ;
     numDatabase[0] = readFlightDatabase(flightDatabase) ; // index 0 for access number of data on flight database
     printf("test") ;
